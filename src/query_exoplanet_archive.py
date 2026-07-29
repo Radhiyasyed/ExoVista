@@ -27,7 +27,7 @@ TAP_SYNC_URL = "https://exoplanetarchive.ipac.caltech.edu/TAP/sync"
 # Use "ps" instead if you want every reported measurement per planet.
 TABLE_NAME = "pscomppars"
 
-SAMPLE_ROW_LIMIT = 1000
+SAMPLE_ROW_LIMIT = 2000
 
 # Columns of interest: planet name, radius, mass, equilibrium temperature,
 # orbital semi-major axis, and host star temperature. This is the minimal
