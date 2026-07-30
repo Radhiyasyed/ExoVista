@@ -146,10 +146,10 @@ def main():
     result_df = result_df.sort_values("habitability_index", ascending=False)
     result_df.to_csv(OUTPUT_PATH, index=False)
     print(f"Saved cleaned dataset + Habitability Index -> {OUTPUT_PATH}")
-    top50 = result_df.dropna(subset=["habitability_index"]).head(50)
-    if not top50.empty:
-        print("\nTop 50 most Earth-like planets in this sample:")
-        print(top50[["pl_name", "pl_rade", "pl_density", "pl_eqt", "habitability_index"]].to_string(index=False))
+    top100 = result_df.dropna(subset=["habitability_index"]).head(100)
+    if not top100.empty:
+        print("\nTop 100 most Earth-like planets in this sample:")
+        print(top100[["pl_name", "pl_rade", "pl_density", "pl_eqt", "habitability_index"]].to_string(index=False))
 
 
 if __name__ == "__main__":
