@@ -129,8 +129,8 @@ def main():
     print(f"Saved dashboard-ready JSON -> {OUTPUT_PATH}")
 
     # Demonstrate the filter/sort functions the frontend dev can reuse
-    top_habitable = sort_planets(records, by="habitabilityIndex", descending=True)[:50]
-    print("\nDemo -- top 50 by Habitability Index (via sort_planets()):")
+    top_habitable = sort_planets(records, by="habitabilityIndex", descending=True)[:100]
+    print("\nDemo -- top 100 by Habitability Index (via sort_planets()):")
     for p in top_habitable:
         print(f"  {p['name']:<20} HI={p['habitabilityIndex']}")
 
