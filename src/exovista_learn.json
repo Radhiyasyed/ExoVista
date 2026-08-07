@@ -1,0 +1,150 @@
+{
+  "module": "ExoVista Learn",
+  "format": "FAQ & Research Bibliography",
+  "faq_items": [
+    {
+      "id": "faq-01",
+      "question": "What is an exoplanet?",
+      "answer": "An exoplanet is a planet that orbits outside our solar system, usually around another star. NASA has discovered over 6,000 exoplanets so far, out of the billions thought to exist in our universe."
+    },
+    {
+      "id": "faq-02",
+      "question": "How is it that we can find these exoplanets?",
+      "answer": "Usually through a decrease in a star's brightness when it is eclipsed by the planet's orbit, or the wobble produced on a star by the gravitational field of the planet orbiting it. These are also the main two methods used to find exoplanets. There is also radial velocity and transits, the two methods have found the majority of exoplanets that have been discovered so far."
+    },
+    {
+      "id": "faq-03",
+      "question": "What is the difference between a confirmed or candidate exoplanet?",
+      "answer": "A candidate is an exoplanet that has been detected, but not yet confirmed. This is because a second detection method may be needed, or to rule out other phenomena that could cause false positives. When an exoplanet becomes confirmed it is when a candidate has been found to be an exoplanet, as of NASA's 6000th exoplanet discovery in September 2025, there were over 8000 other candidates."
+    },
+    {
+      "id": "faq-04",
+      "question": "How is it that the planets are named?",
+      "answer": "The discovered planets are given the name of the telescope that discovered them, plus an additional number for the star that they are orbiting, followed by a lowercase letter for the planet, starting with the letter ‘b’ for the first planet discovered with that telescope."
+    },
+    {
+      "id": "faq-05",
+      "question": "How do you get a dip in brightness?",
+      "answer": "When a planet passes over the star's surface, it covers it briefly, thereby decreasing the amount of light emitted by the star. This decrease in brightness will last a few hours to a few days, until it goes back to normal, when the planet has passed in front of the telescope's view."
+    },
+    {
+      "id": "faq-06",
+      "question": "What is transit data?",
+      "answer": "A star's brightness over time, graphed to create a light curve, used to show dips in brightness when searching for exoplanets. Transits are when a dip in brightness happens on a regular, predictable schedule."
+    },
+    {
+      "id": "faq-07",
+      "question": "What is a transit, step by step?",
+      "answer": "The baseline light, the light when there are no planets in the way, then a dip in the brightness, when the planet first comes into view (this is called the ingress) the light then reaches its lowest point at the center of the dip, then it rises back to the baseline as the planet passes out of view (this is called the egress), until the light reaches baseline, and the cycle repeats itself when the planet comes around for another orbit."
+    },
+    {
+      "id": "faq-08",
+      "question": "What is the science fact behind transit?",
+      "answer": "The amount the light dips tells us about the planet's size, how long it takes for the planet to orbit the star tells us the distance it is from the star, and the longer a signal lasts the more likely it is to be a planet and not a false positive, until it has been confirmed."
+    },
+    {
+      "id": "faq-09",
+      "question": "What are the different classifications of exoplanets?",
+      "answer": "The main four classifications are Terrestrial (Earth-like; rocky planets with sizes that are similar to or smaller than Earth), super-Earths (larger and more massive than Earth, but less than Neptune would be), Neptunian (planets that have a gaseous atmosphere with a rocky core, similar to Neptune), and gas giants (the largest planets, ranging from a little bit bigger than Jupiter all the way to the hottest ones, called hot Jupiters)."
+    },
+    {
+      "id": "faq-10",
+      "question": "What is the habitable zone?",
+      "answer": "The orbit where a planet is at just the right distance from the star to be able to have water, not too close that it would turn to steam, and not too far that it would freeze up (The Goldilocks Zone). It varies depending on the star, as not all stars have the same temperature. The habitable zone is just one of many factors that determine if a planet is hospitable."
+    },
+    {
+      "id": "faq-11",
+      "question": "What is a light year?",
+      "answer": "A light year is the distance that light would travel in a year, it is approximately 5.9 trillion miles. Astronomers use this measurement instead of the distance in miles or kilometers because the numbers would be too large."
+    },
+    {
+      "id": "faq-12",
+      "question": "What is the difference between Kepler and TESS?",
+      "answer": "Kepler is an observatory telescope launched in 2009 and was active until 2018, it had a much narrower field of view than TESS, but it was able to spot about half of the exoplanets found so far due to it being able to stare at a patch of the sky for long periods of time. TESS is the successor of Kepler, launched in 2018, and instead of staring at one part of the sky it watches almost the entire sky, looking for exoplanets around bright stars that are close to Earth."
+    },
+    {
+      "id": "faq-13",
+      "question": "What is the Earth Similarity Index?",
+      "answer": "The ESI is an index that scores an exoplanet on how similar it is to Earth on a scale from 0 to 1, based on size and how much solar energy is being received. Similarity does not mean habitable, a high score indicates that it could potentially be capable of supporting life."
+    },
+    {
+      "id": "faq-14",
+      "question": "What is the Habitability Index?",
+      "answer": "A single score that estimates how capable a world is of sustaining life. It combines the planet's physical characteristics with its host star's energy output and position in the liquid-water zone."
+    },
+    {
+      "id": "faq-15",
+      "question": "What is an astronomical unit?",
+      "answer": "An astronomical unit is the distance between the Earth and the sun, on average, it is defined exactly as 149,597,870.7 kilometers, or 92,955,807.3 miles. Using astronomical units makes the distance easier to manage, light-years are used for larger distances when comparing solar systems to each other."
+    },
+    {
+      "id": "faq-16",
+      "question": "What is a biosignature?",
+      "answer": "A substance or phenomenon that may be able to be used to determine if there is life on a particular exoplanet. It could be something like oxygen in an atmosphere, but paired with other substances, such as methane and oxygen together, can be an indicator that there may be life on the planet."
+    },
+    {
+      "id": "faq-17",
+      "question": "What is the closest known exoplanet to Earth?",
+      "answer": "The closest known exoplanet is the planet orbiting Proxima Centauri, called Proxima Centauri b. It is located 4.2465 light-years (1.30 parsecs) from Earth, where it takes 11.186 days to complete one orbit, around 0.0485 AU from the star."
+    },
+    {
+      "id": "faq-18",
+      "question": "Why do we even search for planets?",
+      "answer": "It is partly because we want to know if we are alone, but finding planets is also important because of the knowledge it gives scientists on how solar systems form, as well as insight into how unique the Earth and solar system is by comparison."
+    }
+  ],
+  "learn_more_resources": [
+    {
+      "id": "ref-nasa-portal",
+      "category": "Educational Portal",
+      "level": "Beginner Friendly",
+      "title": "NASA Exoplanet Science Portal",
+      "author_organization": "NASA Science Mission Directorate",
+      "description": "NASA’s web portal for exoplanet information and outreach. It includes information on how to learn about exoplanets, plus an interactive 3D visualization, a mission overview, and a layman’s guide to different methods of planet-hunting.",
+      "url": "https://science.nasa.gov/exoplanets/"
+    },
+    {
+      "id": "ref-schulze-makuch-2011",
+      "category": "Research Paper",
+      "level": "Academic • Peer-Reviewed",
+      "title": "A Two-Tiered Approach to Assessing the Habitability of Exoplanets",
+      "authors": "Schulze-Makuch et al. (2011)",
+      "journal": "Astrobiology Journal",
+      "description": "The pioneer paper that formally introduced both the Earth Similarity Index (ESI) and the Planetary Habitability Index (PHI). Essential reference for multi-metric scoring models.",
+      "doi": "10.1089/ast.2010.0592",
+      "pmid": "22017274",
+      "url": "https://doi.org/10.1089/ast.2010.0592"
+    },
+    {
+      "id": "ref-kopparapu-2013",
+      "category": "Research Paper",
+      "level": "Academic • Standard Model",
+      "title": "Habitable Zones around Main-Sequence Stars: New Estimates",
+      "authors": "Kopparapu et al. (2013)",
+      "journal": "The Astrophysical Journal",
+      "description": "The industry-standard paper defining the boundaries of Conservative and Optimistic Habitable Zones based on stellar effective flux and effective temperature.",
+      "doi": "10.1088/0004-637X/765/2/131",
+      "url": "https://iopscience.iop.org/article/10.1088/0004-637X/765/2/131"
+    },
+    {
+      "id": "ref-nasa-light-curves",
+      "category": "Educational Guide",
+      "level": "Beginner Friendly",
+      "title": "Understanding Exoplanet Transit Light Curves",
+      "author_organization": "NASA Exoplanet Watch Tutorial Series",
+      "description": "A beginner-friendly guide explaining baseline brightness, transit depth, and light curve timing variations.",
+      "url": "https://science.nasa.gov/citizen-science/exoplanet-watch/exoplanet-watch-resources/"
+    },
+    {
+      "id": "ref-haswell-textbook",
+      "category": "Textbook",
+      "level": "Undergraduate Level",
+      "title": "Transiting Exoplanets",
+      "authors": "Carole A. Haswell",
+      "publisher": "Cambridge University Press",
+      "description": "An outstanding introduction breaking down transit geometry, light-curve analysis, and atmospheric spectroscopy in clear mathematical steps.",
+      "isbn": "978-0521139380",
+      "url": "https://www.cambridge.org/gb/universitypress/subjects/physics/astrophysics/transiting-exoplanets"
+    }
+  ]
+}
